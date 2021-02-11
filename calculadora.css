@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    background-color: rgb(170, 80, 255);
+}
+
+button {
+    width: 100%;
+    font-size: 150%;
+    background-color:white;
+}
+
+.ac {
+    color: blueviolet;
+}
